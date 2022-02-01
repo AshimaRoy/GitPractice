@@ -1,0 +1,8 @@
+11:17:28.069 [main] DEBUG log4jTest.Ex_log4jTest - I am from debug
+11:17:28.110 [main] ERROR log4jTest.Ex_log4jTest - I am from error
+11:17:28.111 [main] INFO  log4jTest.Ex_log4jTest - I am from info
+11:17:28.111 [main] FATAL log4jTest.Ex_log4jTest - i am from fatal
+12:31:45.944 [main] INFO  log4jTest.Ex_log4jTest - Successfully logined to account
+12:32:44.679 [main] INFO  log4jTest.Ex_log4jTest - Successfully logined to account
+12:33:41.515 [main] INFO  log4jTest.Ex_log4jTest - Successfully logined to account
+12:35:22.891 [main] INFO  log4jTest.Ex_log4jTest - Successfully logined to account
